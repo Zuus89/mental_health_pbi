@@ -1,0 +1,6 @@
+DisorderID,DisorderName,DisorderGroup,CountriesWithData
+1,Anxiety,Anxiety Disorder,58.0
+2,Bipolar,Mood Disorder,41.0
+3,Depression,Mood Disorder,111.0
+4,EatingDisorders,Behavioral Disorder,29.0
+5,Schizophrenia,Psychotic Disorder,2.0

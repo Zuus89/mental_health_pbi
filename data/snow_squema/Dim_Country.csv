@@ -1,0 +1,206 @@
+CountryCode,CountryName,Continent,UNRegion,Language
+AFG,Afghanistan,Asia,Southern Asia,"Dari, Pashto"
+ALB,Albania,Europe,Southern Europe,Albanian
+DZA,Algeria,Africa,Northern Africa,"Arabic, Berber"
+ASM,American Samoa,Oceania,Polynesia,Unknown
+AND,Andorra,Europe,Southern Europe,Catalan
+AGO,Angola,Africa,Middle Africa,Portuguese
+ATG,Antigua and Barbuda,America,Caribbean,Unknown
+ARG,Argentina,America,South America,Spanish
+ARM,Armenia,Asia,Western Asia,Armenian
+AUS,Australia,Oceania,Australia and New Zealand,English
+AUT,Austria,Europe,Western Europe,German
+AZE,Azerbaijan,Asia,Western Asia,Azerbaijani
+BHS,Bahamas,America,Caribbean,English
+BHR,Bahrain,Asia,Western Asia,Arabic
+BGD,Bangladesh,Asia,Southern Asia,Bengali
+BRB,Barbados,America,Caribbean,English
+BLR,Belarus,Europe,Eastern Europe,"Belarusian, Russian"
+BEL,Belgium,Europe,Western Europe,"Dutch, French, German"
+BLZ,Belize,America,Central America,English
+BEN,Benin,Africa,Western Africa,French
+BMU,Bermuda,America,Northern America,Unknown
+BTN,Bhutan,Asia,Southern Asia,Dzongkha
+BOL,Bolivia,America,South America,"Spanish, Quechua, Aymara, Guarani"
+BIH,Bosnia and Herzegovina,Europe,Southern Europe,"Bosnian, Croatian, Serbian"
+BWA,Botswana,Africa,Southern Africa,"English, Tswana"
+BRA,Brazil,America,South America,Portuguese
+BRN,Brunei,Asia,South-eastern Asia,Malay
+BGR,Bulgaria,Europe,Eastern Europe,Bulgarian
+BFA,Burkina Faso,Africa,Western Africa,French
+BDI,Burundi,Africa,Eastern Africa,"Kirundi, French, English"
+KHM,Cambodia,Asia,South-eastern Asia,Khmer
+CMR,Cameroon,Africa,Middle Africa,"English, French"
+CAN,Canada,America,Northern America,"English, French"
+CPV,Cape Verde,Africa,Western Africa,Portuguese
+CAF,Central African Republic,Africa,Middle Africa,"French, Sango"
+TCD,Chad,Africa,Middle Africa,"French, Arabic"
+CHL,Chile,America,South America,Spanish
+CHN,China,Asia,Eastern Asia,Mandarin
+COL,Colombia,America,South America,Spanish
+COM,Comoros,Africa,Eastern Africa,"Comorian, Arabic, French"
+COG,Congo,Africa,Middle Africa,Unknown
+COK,Cook Islands,Oceania,Polynesia,Unknown
+CRI,Costa Rica,America,Central America,Spanish
+CIV,Cote d'Ivoire,Africa,Western Africa,Unknown
+HRV,Croatia,Europe,Southern Europe,Croatian
+CUB,Cuba,America,Caribbean,Spanish
+CYP,Cyprus,Asia,Western Asia,"Greek, Turkish"
+CZE,Czechia,Europe,Eastern Europe,Unknown
+COD,Democratic Republic of Congo,Africa,Middle Africa,Unknown
+DNK,Denmark,Europe,Northern Europe,Danish
+DJI,Djibouti,Africa,Eastern Africa,"French, Arabic"
+DMA,Dominica,America,Caribbean,English
+DOM,Dominican Republic,America,Caribbean,Spanish
+TLS,East Timor,Asia,South-eastern Asia,"Portuguese, Tetum"
+ECU,Ecuador,America,South America,Spanish
+EGY,Egypt,Africa,Northern Africa,Arabic
+SLV,El Salvador,America,Central America,Spanish
+GNQ,Equatorial Guinea,Africa,Middle Africa,"Spanish, French, Portuguese"
+ERI,Eritrea,Africa,Eastern Africa,"Tigrinya, Arabic, English"
+EST,Estonia,Europe,Northern Europe,Estonian
+SWZ,Eswatini,Africa,Southern Africa,"Swazi, English"
+ETH,Ethiopia,Africa,Eastern Africa,Amharic
+FJI,Fiji,Oceania,Melanesia,"English, Fijian, Hindi"
+FIN,Finland,Europe,Northern Europe,"Finnish, Swedish"
+FRA,France,Europe,Western Europe,French
+GAB,Gabon,Africa,Middle Africa,French
+GMB,Gambia,Africa,Western Africa,English
+GEO,Georgia,Asia,Western Asia,Georgian
+DEU,Germany,Europe,Western Europe,German
+GHA,Ghana,Africa,Western Africa,English
+GRC,Greece,Europe,Southern Europe,Greek
+GRL,Greenland,America,Northern America,Unknown
+GRD,Grenada,America,Caribbean,English
+GUM,Guam,Oceania,Micronesia,Unknown
+GTM,Guatemala,America,Central America,Spanish
+GIN,Guinea,Africa,Western Africa,French
+GNB,Guinea-Bissau,Africa,Western Africa,Portuguese
+GUY,Guyana,America,South America,English
+HTI,Haiti,America,Caribbean,"French, Haitian Creole"
+HND,Honduras,America,Central America,Spanish
+HUN,Hungary,Europe,Eastern Europe,Hungarian
+ISL,Iceland,Europe,Northern Europe,Icelandic
+IND,India,Asia,Southern Asia,"Hindi, English"
+IDN,Indonesia,Asia,South-eastern Asia,Indonesian
+IRN,Iran,Asia,Southern Asia,Persian
+IRQ,Iraq,Asia,Western Asia,"Arabic, Kurdish"
+IRL,Ireland,Europe,Northern Europe,"Irish, English"
+ISR,Israel,Asia,Western Asia,"Hebrew, Arabic"
+ITA,Italy,Europe,Southern Europe,Italian
+JAM,Jamaica,America,Caribbean,English
+JPN,Japan,Asia,Eastern Asia,Japanese
+JOR,Jordan,Asia,Western Asia,Arabic
+KAZ,Kazakhstan,Asia,Central Asia,"Kazakh, Russian"
+KEN,Kenya,Africa,Eastern Africa,"English, Swahili"
+KIR,Kiribati,Oceania,Micronesia,English
+KWT,Kuwait,Asia,Western Asia,Arabic
+KGZ,Kyrgyzstan,Asia,Central Asia,"Kyrgyz, Russian"
+LAO,Laos,Asia,South-eastern Asia,Lao
+LVA,Latvia,Europe,Northern Europe,Latvian
+LBN,Lebanon,Asia,Western Asia,Arabic
+LSO,Lesotho,Africa,Southern Africa,"English, Sesotho"
+LBR,Liberia,Africa,Western Africa,English
+LBY,Libya,Africa,Northern Africa,Arabic
+LTU,Lithuania,Europe,Northern Europe,Lithuanian
+LUX,Luxembourg,Europe,Western Europe,"Luxembourgish, French, German"
+MDG,Madagascar,Africa,Eastern Africa,"Malagasy, French"
+MWI,Malawi,Africa,Eastern Africa,"English, Chichewa"
+MYS,Malaysia,Asia,South-eastern Asia,Malay
+MDV,Maldives,Asia,Southern Asia,Dhivehi
+MLI,Mali,Africa,Western Africa,French
+MLT,Malta,Europe,Southern Europe,"Maltese, English"
+MHL,Marshall Islands,Oceania,Micronesia,"Marshallese, English"
+MRT,Mauritania,Africa,Western Africa,Arabic
+MUS,Mauritius,Africa,Eastern Africa,English
+MEX,Mexico,America,Central America,Spanish
+FSM,Micronesia (country),Oceania,Micronesia,Unknown
+MDA,Moldova,Europe,Eastern Europe,Romanian
+MCO,Monaco,Europe,Western Europe,French
+MNG,Mongolia,Asia,Eastern Asia,Mongolian
+MNE,Montenegro,Europe,Southern Europe,Montenegrin
+MAR,Morocco,Africa,Northern Africa,"Arabic, Berber"
+MOZ,Mozambique,Africa,Eastern Africa,Portuguese
+MMR,Myanmar,Asia,South-eastern Asia,Burmese
+NAM,Namibia,Africa,Southern Africa,English
+NRU,Nauru,Oceania,Polynesia,"Nauruan, English"
+NPL,Nepal,Asia,Southern Asia,Nepali
+NLD,Netherlands,Europe,Western Europe,Dutch
+NZL,New Zealand,Oceania,Australia and New Zealand,"English, Maori, NZ Sign Language"
+NIC,Nicaragua,America,Central America,Spanish
+NER,Niger,Africa,Western Africa,French
+NGA,Nigeria,Africa,Western Africa,English
+NIU,Niue,Oceania,Polynesia,Unknown
+PRK,North Korea,Asia,Eastern Asia,Unknown
+MKD,North Macedonia,Europe,Southern Europe,Macedonian
+MNP,Northern Mariana Islands,Oceania,Micronesia,Unknown
+NOR,Norway,Europe,Northern Europe,Norwegian
+OMN,Oman,Asia,Western Asia,Arabic
+PAK,Pakistan,Asia,Southern Asia,Urdu
+PLW,Palau,Oceania,Micronesia,Unknown
+PSE,Palestine,Asia,Western Asia,Unknown
+PAN,Panama,America,Central America,Unknown
+PNG,Papua New Guinea,Oceania,Melanesia,Unknown
+PRY,Paraguay,America,South America,Unknown
+PER,Peru,America,South America,Unknown
+PHL,Philippines,Asia,South-eastern Asia,Unknown
+POL,Poland,Europe,Eastern Europe,Unknown
+PRT,Portugal,Europe,Southern Europe,Unknown
+PRI,Puerto Rico,America,Caribbean,Unknown
+QAT,Qatar,Asia,Western Asia,Unknown
+ROU,Romania,Europe,Eastern Europe,Unknown
+RUS,Russia,Europe,Eastern Europe,Unknown
+RWA,Rwanda,Africa,Eastern Africa,Unknown
+KNA,Saint Kitts and Nevis,America,Caribbean,Unknown
+LCA,Saint Lucia,America,Caribbean,Unknown
+VCT,Saint Vincent and the Grenadines,America,Caribbean,Unknown
+WSM,Samoa,Oceania,Polynesia,Unknown
+SMR,San Marino,Europe,Southern Europe,Unknown
+STP,Sao Tome and Principe,Africa,Middle Africa,Unknown
+SAU,Saudi Arabia,Asia,Western Asia,Unknown
+SEN,Senegal,Africa,Western Africa,Unknown
+SRB,Serbia,Europe,Southern Europe,Unknown
+SYC,Seychelles,Africa,Eastern Africa,Unknown
+SLE,Sierra Leone,Africa,Western Africa,Unknown
+SGP,Singapore,Asia,South-eastern Asia,Unknown
+SVK,Slovakia,Europe,Eastern Europe,Unknown
+SVN,Slovenia,Europe,Southern Europe,Unknown
+SLB,Solomon Islands,Oceania,Melanesia,Unknown
+SOM,Somalia,Africa,Eastern Africa,Unknown
+ZAF,South Africa,Africa,Southern Africa,Unknown
+KOR,South Korea,Asia,Eastern Asia,Unknown
+SSD,South Sudan,Africa,Eastern Africa,Unknown
+ESP,Spain,Europe,Southern Europe,Unknown
+LKA,Sri Lanka,Asia,Southern Asia,Unknown
+SDN,Sudan,Africa,Northern Africa,Unknown
+SUR,Suriname,America,South America,Unknown
+SWE,Sweden,Europe,Northern Europe,Unknown
+CHE,Switzerland,Europe,Western Europe,Unknown
+SYR,Syria,Asia,Western Asia,Unknown
+TWN,Taiwan,Asia,Eastern Asia,Unknown
+TJK,Tajikistan,Asia,Central Asia,Unknown
+TZA,Tanzania,Africa,Eastern Africa,Unknown
+THA,Thailand,Asia,South-eastern Asia,Unknown
+TGO,Togo,Africa,Western Africa,Unknown
+TKL,Tokelau,Oceania,Polynesia,Unknown
+TON,Tonga,Oceania,Polynesia,Unknown
+TTO,Trinidad and Tobago,America,Caribbean,Unknown
+TUN,Tunisia,Africa,Northern Africa,Unknown
+TUR,Turkey,Asia,Western Asia,Unknown
+TKM,Turkmenistan,Asia,Central Asia,Unknown
+TUV,Tuvalu,Oceania,Polynesia,Unknown
+UGA,Uganda,Africa,Eastern Africa,Unknown
+UKR,Ukraine,Europe,Eastern Europe,Unknown
+ARE,United Arab Emirates,Asia,Western Asia,Unknown
+GBR,United Kingdom,Europe,Northern Europe,Unknown
+USA,United States,America,Northern America,Unknown
+VIR,United States Virgin Islands,America,Caribbean,Unknown
+URY,Uruguay,America,South America,Unknown
+UZB,Uzbekistan,Asia,Central Asia,Unknown
+VUT,Vanuatu,Oceania,Melanesia,Unknown
+VEN,Venezuela,America,South America,Unknown
+VNM,Vietnam,Asia,South-eastern Asia,Unknown
+OWID_WRL,World,not found,not found,Unknown
+YEM,Yemen,Asia,Western Asia,Unknown
+ZMB,Zambia,Africa,Eastern Africa,Unknown
+ZWE,Zimbabwe,Africa,Eastern Africa,Unknown

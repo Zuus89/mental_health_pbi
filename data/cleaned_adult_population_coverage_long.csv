@@ -1,0 +1,133 @@
+Entity,Code,Year,Disorder,Coverage
+Andean Latin America,,2008,MajorDepression,0.0
+Asia Pacific,,2008,MajorDepression,80.8
+Australasia,,2008,MajorDepression,100.0
+Caribbean,,2008,MajorDepression,9.1
+Central Asia,,2008,MajorDepression,0.0
+Central Europe,,2008,MajorDepression,16.0
+Central Latin America,,2008,MajorDepression,49.8
+Central Sub-Saharan Africa,,2008,MajorDepression,0.0
+East Asia,,2008,MajorDepression,12.2
+East Sub-Saharan Africa,,2008,MajorDepression,1.3
+Eastern Europe,,2008,MajorDepression,23.6
+North Africa/Middle East,,2008,MajorDepression,47.0
+North America,,2008,MajorDepression,100.0
+Oceania,,2008,MajorDepression,0.0
+South Asia,,2008,MajorDepression,1.7
+Southeast Asia,,2008,MajorDepression,14.5
+Southern Latin America,,2008,MajorDepression,16.5
+Southern Sub-Saharan Africa,,2008,MajorDepression,0.1
+Tropical Latin America,,2008,MajorDepression,9.7
+West Sub-Saharan Africa,,2008,MajorDepression,46.6
+Western Europe,,2008,MajorDepression,73.6
+World,OWID_WRL,2008,MajorDepression,35.4
+Andean Latin America,,2008,Bipolar,0.0
+Asia Pacific,,2008,Bipolar,3.8
+Australasia,,2008,Bipolar,100.0
+Caribbean,,2008,Bipolar,0.0
+Central Asia,,2008,Bipolar,0.0
+Central Europe,,2008,Bipolar,0.0
+Central Latin America,,2008,Bipolar,34.5
+Central Sub-Saharan Africa,,2008,Bipolar,0.0
+East Asia,,2008,Bipolar,8.4
+East Sub-Saharan Africa,,2008,Bipolar,0.9
+Eastern Europe,,2008,Bipolar,1.7
+North Africa/Middle East,,2008,Bipolar,14.5
+North America,,2008,Bipolar,89.8
+Oceania,,2008,Bipolar,0.0
+South Asia,,2008,Bipolar,0.0
+Southeast Asia,,2008,Bipolar,0.0
+Southern Latin America,,2008,Bipolar,11.6
+Southern Sub-Saharan Africa,,2008,Bipolar,0.0
+Tropical Latin America,,2008,Bipolar,6.4
+West Sub-Saharan Africa,,2008,Bipolar,47.0
+Western Europe,,2008,Bipolar,19.0
+World,OWID_WRL,2008,Bipolar,12.9
+Andean Latin America,,2008,EatingDisorders,0.0
+Asia Pacific,,2008,EatingDisorders,23.1
+Australasia,,2008,EatingDisorders,16.4
+Caribbean,,2008,EatingDisorders,0.0
+Central Asia,,2008,EatingDisorders,0.0
+Central Europe,,2008,EatingDisorders,18.8
+Central Latin America,,2008,EatingDisorders,71.0
+Central Sub-Saharan Africa,,2008,EatingDisorders,0.0
+East Asia,,2008,EatingDisorders,7.9
+East Sub-Saharan Africa,,2008,EatingDisorders,0.1
+Eastern Europe,,2008,EatingDisorders,0.0
+North Africa/Middle East,,2008,EatingDisorders,0.0
+North America,,2008,EatingDisorders,89.8
+Oceania,,2008,EatingDisorders,0.0
+South Asia,,2008,EatingDisorders,0.0
+Southeast Asia,,2008,EatingDisorders,0.0
+Southern Latin America,,2008,EatingDisorders,0.0
+Southern Sub-Saharan Africa,,2008,EatingDisorders,0.0
+Tropical Latin America,,2008,EatingDisorders,21.1
+West Sub-Saharan Africa,,2008,EatingDisorders,0.0
+Western Europe,,2008,EatingDisorders,57.3
+World,OWID_WRL,2008,EatingDisorders,15.2
+Andean Latin America,,2008,Dysthymia,0.0
+Asia Pacific,,2008,Dysthymia,1.0
+Australasia,,2008,Dysthymia,100.0
+Caribbean,,2008,Dysthymia,0.0
+Central Asia,,2008,Dysthymia,0.0
+Central Europe,,2008,Dysthymia,0.0
+Central Latin America,,2008,Dysthymia,46.0
+Central Sub-Saharan Africa,,2008,Dysthymia,0.0
+East Asia,,2008,Dysthymia,8.3
+East Sub-Saharan Africa,,2008,Dysthymia,0.7
+Eastern Europe,,2008,Dysthymia,22.9
+North Africa/Middle East,,2008,Dysthymia,23.1
+North America,,2008,Dysthymia,90.2
+Oceania,,2008,Dysthymia,0.0
+South Asia,,2008,Dysthymia,0.0
+Southeast Asia,,2008,Dysthymia,0.0
+Southern Latin America,,2008,Dysthymia,0.0
+Southern Sub-Saharan Africa,,2008,Dysthymia,0.1
+Tropical Latin America,,2008,Dysthymia,6.4
+West Sub-Saharan Africa,,2008,Dysthymia,46.6
+Western Europe,,2008,Dysthymia,7.5
+World,OWID_WRL,2008,Dysthymia,29.4
+Andean Latin America,,2008,Schizophrenia,0
+Asia Pacific,,2008,Schizophrenia,71.6
+Australasia,,2008,Schizophrenia,85.1
+Caribbean,,2008,Schizophrenia,28.3
+Central Asia,,2008,Schizophrenia,0
+Central Europe,,2008,Schizophrenia,0
+Central Latin America,,2008,Schizophrenia,0.7
+Central Sub-Saharan Africa,,2008,Schizophrenia,0
+East Asia,,2008,Schizophrenia,15.6
+East Sub-Saharan Africa,,2008,Schizophrenia,6.4
+Eastern Europe,,2008,Schizophrenia,1.3
+North Africa/Middle East,,2008,Schizophrenia,0
+North America,,2008,Schizophrenia,89.8
+Oceania,,2008,Schizophrenia,0.4
+South Asia,,2008,Schizophrenia,6.3
+Southeast Asia,,2008,Schizophrenia,0.4
+Southern Latin America,,2008,Schizophrenia,0
+Southern Sub-Saharan Africa,,2008,Schizophrenia,<0.1
+Tropical Latin America,,2008,Schizophrenia,0
+West Sub-Saharan Africa,,2008,Schizophrenia,0
+Western Europe,,2008,Schizophrenia,12.6
+World,OWID_WRL,2008,Schizophrenia,14.2
+Andean Latin America,,2008,Anxiety,0.0
+Asia Pacific,,2008,Anxiety,93.1
+Australasia,,2008,Anxiety,100.0
+Caribbean,,2008,Anxiety,0.0
+Central Asia,,2008,Anxiety,0.0
+Central Europe,,2008,Anxiety,25.5
+Central Latin America,,2008,Anxiety,69.7
+Central Sub-Saharan Africa,,2008,Anxiety,0.0
+East Asia,,2008,Anxiety,2.5
+East Sub-Saharan Africa,,2008,Anxiety,0.4
+Eastern Europe,,2008,Anxiety,22.3
+North Africa/Middle East,,2008,Anxiety,43.7
+North America,,2008,Anxiety,93.4
+Oceania,,2008,Anxiety,0.0
+South Asia,,2008,Anxiety,4.9
+Southeast Asia,,2008,Anxiety,15.5
+Southern Latin America,,2008,Anxiety,28.4
+Southern Sub-Saharan Africa,,2008,Anxiety,73.6
+Tropical Latin America,,2008,Anxiety,6.4
+West Sub-Saharan Africa,,2008,Anxiety,46.6
+Western Europe,,2008,Anxiety,81.8
+World,OWID_WRL,2008,Anxiety,44.2
