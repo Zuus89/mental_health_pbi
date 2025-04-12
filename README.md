@@ -58,17 +58,44 @@ Designed to support temporal hierarchy in Power BI (e.g., Year, Decade, Era).
 
 ---
 
-## 📈 Next Step: Power BI
+---
 
-This dataset is now ready to be imported into Power BI to build:
-- Trend analysis of disorder prevalence
-- Regional comparisons by DALY burden
-- Data completeness heatmaps
+## 📊 Power BI Dashboard
+
+Built using a snowflake schema model and multiple DAX measures. It focuses on both analysis and storytelling.
+
+### 📌 Key Metrics (DAX)
+
+- `Average Prevalence` = `AVG([Prevalence])`
+- `Average Burden` = `AVG([Burden])`
+- `Total Countries` = `DISTINCTCOUNT([CountryCode])`
+- `Total Years` = `DISTINCTCOUNT([Year])`
+
+### 📈 Visuals Used
+
+- Cards with tooltips (prevalence, burden, country/year counts)
+- Line chart (Prevalence over time by disorder)
+- Map visual (bubble map by country burden or prevalence)
+- Bar chart (Average burden by disorder)
+- Matrix table (Country × Disorder breakdown)
+- Slicers: Year, Disorder, Country, Continent
+- Bookmarks: Toggle between Prevalence / Burden
+- Custom Tooltips: Country/disorder metadata shown on hover
+
+---
+
+## 🎯 Goal
+
+Designed to showcase:
+- ETL automation with Python
+- Data modeling with star schema
+- Advanced Power BI techniques (tooltips, bookmarks, slicers)
+- Visual storytelling and professional layout
 
 ---
 
 ## 👤 Author
 
-Project by **Cristóbal Elton**  
+**Cristóbal Elton**  
 [LinkedIn](https://linkedin.com/in/cristobalelton)
 
